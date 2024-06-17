@@ -19,7 +19,7 @@ Open your moonraker.conf and add
 type: git_repo
 channel: dev
 primary_branch: main
-path: ~/printer_data/config/printer-macros
+path: ~/printer-macros
 origin: https://github.com/geoff-coppertop/printer-macros.git
 managed_services: klipper
 ```
